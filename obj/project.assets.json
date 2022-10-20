@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/chrismartinez/.nuget/packages/": {}
+    "C:\\Users\\Mark\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/CMartinezGuessIt#8.csproj",
+      "projectUniqueName": "C:\\Users\\Mark\\Downloads\\GitRepository\\CMartinezGuessIt-8\\CMartinezGuessIt#8.csproj",
       "projectName": "CMartinezGuessIt#8",
-      "projectPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/CMartinezGuessIt#8.csproj",
-      "packagesPath": "/Users/chrismartinez/.nuget/packages/",
-      "outputPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/",
+      "projectPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\CMartinezGuessIt-8\\CMartinezGuessIt#8.csproj",
+      "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\CMartinezGuessIt-8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chrismartinez/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
