@@ -1,0 +1,15 @@
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/bin/Debug/net6.0/CMartinezGuessIt#8
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/bin/Debug/net6.0/CMartinezGuessIt#8.deps.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/bin/Debug/net6.0/CMartinezGuessIt#8.runtimeconfig.json
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/bin/Debug/net6.0/CMartinezGuessIt#8.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/bin/Debug/net6.0/CMartinezGuessIt#8.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.csproj.AssemblyReference.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.AssemblyInfoInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.AssemblyInfo.cs
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.csproj.CoreCompileInputs.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/refint/CMartinezGuessIt#8.dll
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.pdb
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/CMartinezGuessIt#8.genruntimeconfig.cache
+/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezGuessIt#8/obj/Debug/net6.0/ref/CMartinezGuessIt#8.dll
